@@ -3,7 +3,7 @@
 
 
 ```markdown
-1.Scrape the #, First Name, Last Name and Username of the 4 tables that can be found in this webpage: 
+2.Scrape the #, First Name, Last Name and Username of the 4 tables that can be found in this webpage: 
 
 -----------------------------------
    # First Name Last Name User Name
@@ -26,6 +26,11 @@
 1  1       Mark      Otto      @mdo
 2  2      Jacob  Thornton      @fat
 3  3      Larry  the Bird  @twitter
+
+
+
+
+3.) Scrape the weatherforecast from October 1-10 of Davao City, Cebu City and Manila City
 
 
 --------------------------------weatherforecast from October 1-10 of Cebu City------------------------------------------
