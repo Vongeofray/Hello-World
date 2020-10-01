@@ -11,19 +11,28 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+-----------------------------------
+   # First Name Last Name User Name
+0  1       Mark      Otto      @mdo
+1  2      Jacob  Thornton      @fat
+2  3      Larry  the Bird  @twitter
+-----------------------------------
+   # First Name Last Name User Name
+0  4      Harry    Potter       @hp
+1  5       John      Snow    @dunno
+2  6        Tim      Bean  @timbean
+-----------------------------------
+   # First Name Last Name User Name
+0  1       Mark      Otto      @mdo
+1  2      Jacob  Thornton      @fat
+2  3      Larry  the Bird  @twitter
+-----------------------------------
+   # First Name Last Name User Name
+0  -          -         -         -
+1  1       Mark      Otto      @mdo
+2  2      Jacob  Thornton      @fat
+3  3      Larry  the Bird  @twitter
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
