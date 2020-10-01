@@ -9,7 +9,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+1.Scrape the #, First Name, Last Name and Username of the 4 tables that can be found in this webpage: 
 
 -----------------------------------
    # First Name Last Name User Name
