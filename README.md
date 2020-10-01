@@ -1,12 +1,6 @@
-Von Geofray Tambilawan
+### Von Geofray Tambilawan
 
-You can use the [editor on GitHub](https://github.com/Vongeofray/Hello-World/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 1.Scrape the #, First Name, Last Name and Username of the 4 tables that can be found in this webpage: 
